@@ -1,4 +1,4 @@
-# Drug_classification
+# Multi-Drug classification
 This is a multi-classification problem where we predicting what drug is the most suitable for a patient based on their, 
 
 * Age
